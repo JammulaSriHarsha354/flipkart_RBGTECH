@@ -1,0 +1,9 @@
+public class flipkart.java
+{
+ public static void main(String[]args)
+ {
+  System.out.println(" New file creation with code to git");
+ }
+}
+
+
